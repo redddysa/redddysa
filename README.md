@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @redddysa
+- 👋 Hi, I’m @redddysatish
 - 👀 I’m interested in ...Data Analysis
 - 🌱 I recently comleted a data analyst course from excelr solutions
 - 💞️ I’m looking to collaborate on ...
